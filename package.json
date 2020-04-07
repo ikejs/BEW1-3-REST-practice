@@ -1,0 +1,24 @@
+{
+  "name": "bew1-3-rest-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ikejs/BEW1-3-REST-API.git"
+  },
+  "author": "Ike Holzmann",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ikejs/BEW1-3-REST-API/issues"
+  },
+  "homepage": "https://github.com/ikejs/BEW1-3-REST-API#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "uuid": "^7.0.3"
+  }
+}
